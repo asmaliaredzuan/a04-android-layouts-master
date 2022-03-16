@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
-    private final double discountAmt = 0.50;
+    private final double discountAmt = 0.85;
     private boolean isDiscountActive = false;
     private double invoiceTotal = 00.00;
 
